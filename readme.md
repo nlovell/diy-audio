@@ -39,6 +39,8 @@ I'm not going to explain this here. Full writeup coming soon.
 
 ![Bionicle Headphones](./pics/bonk.jpg)
 
+Writeup available on Github [here](b01ge.md)
+
 More pictures available in the [Drive folder](https://drive.google.com/open?id=1_f_YMx_V_4qDXu0V2l3mPHudoEcrZv9L)
 
 ### AKG K550 Revamp
@@ -56,6 +58,8 @@ Section in progress
 ## Cables
 
 I've been making a few - these are hand-braided cables made primarily from Van Damme cable and paracord sleeving.
+
+I also take comissions for these. I try to keep my prices reasonably low so as to keep them accessible. Feel free to reach out to me at [cables@nlovell.net](mailto:cables@nlovell.net) to discuss pricing. More details coming soon.
 
 ### Braided Cables
 
