@@ -145,7 +145,9 @@ I'm going with 30 days + 12 days to account for most worldwide shipping. If for 
 
 ## Contact
 
-I mostly use email and Facebook. 
+I mostly use email and Facebook.
+Facebook - [Link](http://www.facebook.com/might.be.alon)
+Email - [Link](mailto:cables@nlovell.net)
 
 ## Glossary
 
