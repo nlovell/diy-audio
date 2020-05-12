@@ -7,7 +7,6 @@
     - [Kiore Series](#kiore-series)
     - [Manu Series](#manu-series)
     - [Tumuku Series](#tumuku-series)
-  - [|Unsleeved core size | 1.1mm          |](#unsleeved-core-size--11mm)
   - [Returns and Warranty](#returns-and-warranty)
     - [Returns](#returns)
     - [Warranty](#warranty)
@@ -104,6 +103,7 @@ _Conductor material:_ Silver-plated copper.
 |Resistance          | .058Ω/m        |
 |Sleeved core size   |                |
 |Unsleeved core size | 1.1mm          |
+
 ----
 
 ## Returns and Warranty
