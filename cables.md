@@ -118,9 +118,8 @@ As the cost will vary, please ask about the returns related to your specific con
 
 ### Warranty
 
-I will honour a 42-day warranty on the soldering in any of my cables, as determined by the date provided on your certificate of authenticity. If a cable goes faulty (not through misuse or damage) I will cover the cost of returning the cable to you, but if there are obvious signs of damage I will ask the buying to cover postage both ways.
-
-I will be willing to repair cables outside of that timeframe, but under different terms.
+I will honour a 12 month warranty on any of my analogue cables, from the date provided on your certificate of authenticity.
+Outside of this period, I will be willing to repair cables for a small fee.
 
 ----
 
@@ -138,10 +137,6 @@ Enough. I've soldered several dozen cables, and have been building a portfolio o
 _What material do you use?_
 
 I personally focus on price:performance, so my conductor and connector choices are usually what people would call "midrange". Refer to the _Specs for Nerds_ tables relating to specific [cables](#cables) for more details. But if you're willing to pay for more expensive materials, I'm more than happy to work with them.
-
-_Why 42 day warranty?_
-
-I'm going with 30 days + 12 days to account for most worldwide shipping. If for some reason your cable takes a long time to arrive, I can be flexible. Again, I'm just a single guy - just shoot me an [email](mailto:cables@nlovell.net) if you want to resolve any issues with your cable.
 
 ## Contact
 
