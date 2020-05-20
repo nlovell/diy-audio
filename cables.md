@@ -30,7 +30,7 @@ All my cables are hand-made in the UK, using legitimate quality parts sourced fr
 
 ## Cables
 
-Right, here's the meat-and-potatoes of this page. _Cables_. All of my cables utilise a custom aluminium-shell Y-split, and the main difference between the series is the specific conductor used.
+Right, here's the meat-and-potatoes of this page. _Cables_. The main difference between the series is the specific conductor used.
 
 My pricing structure is simple; A basic cost-per-metre for braided cables, plus the cost of connectors (which vary significantly).
 
@@ -44,6 +44,10 @@ My pricing structure is simple; A basic cost-per-metre for braided cables, plus 
 I can ship internationally, and can provide quotes but if you want to figure out an estimate feel free to do so [here](https://www.royalmail.com/price-finder).
 
 I currently use Cardas Audio Quad Eutectic Solder when making my cables, if anyone cares. It's a blend of silver, copper, tin, and lead according to the [Cardas Audio website](http://www.cardas.com/solder.php).
+
+All of my Y-splitting cables utilise a custom aluminium-shell Y-split.
+
+![Y-split](./pics/ysplit.jpg)
 
 ----
 
