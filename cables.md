@@ -146,10 +146,9 @@ I personally focus on price:performance, so my conductor and connector choices a
 
 ## Contact
 
-I mostly use email and Facebook.
-Facebook - [Link](http://www.facebook.com/might.be.alon)
-Email - [Link](mailto:cables@nlovell.net)
-Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)
+I mostly use email and Instagram.
+Email - [Link](mailto:cables@nlovell.net)   
+Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)  
 
 ## Glossary
 
