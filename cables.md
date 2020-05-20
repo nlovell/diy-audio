@@ -20,6 +20,8 @@
 
 I'm Alan, I'm a 21 year old university student. I've been tinkering with electrical projects for as long as I can remember, and have been soldering for over 10 years now. I've always had an interest in audio equipment, but visiting a HeadFi event in 2018 really sparked a passion for me. Since then, I've accumulated a few high-end and midrange headphones and have gotten stuck in with modding, repairing, and otherwise tinkering with portable audio equipment.
 
+![Cable](./pics/red-black-blue.jpg)
+
 The audio game is already prohibitively expensive -  I'd rather keep things low-price and high-quality so the everyday audiophile can have a cable they love the look and feel of, rather than cater to those with more money than sense. So in 2020, I decided to make a cost-effective solution for those who want custom cables.
 
 All my cables are hand-made in the UK, using legitimate quality parts sourced from UK and EU-based suppliers wherever possible.
@@ -143,6 +145,7 @@ I personally focus on price:performance, so my conductor and connector choices a
 I mostly use email and Facebook.
 Facebook - [Link](http://www.facebook.com/might.be.alon)
 Email - [Link](mailto:cables@nlovell.net)
+Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)
 
 ## Glossary
 
