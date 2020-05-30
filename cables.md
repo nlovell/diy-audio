@@ -1,16 +1,17 @@
-# nlovell.net's custom cables
+# nlovell audio cables
 
-- [nlovell.net's custom cables](#nlovellnets-custom-cables)
+- [nlovell audio cables](#nlovell-audio-cables)
   - [About Me](#about-me)
   - [Cables](#cables)
+    - [Connectors](#connectors)
     - [Ika Series](#ika-series)
     - [Kiore Series](#kiore-series)
     - [Manu Series](#manu-series)
     - [Tumuku Series](#tumuku-series)
-  - [Testimonials and Reviews](#testimonials-and-reviews) 
   - [Returns and Warranty](#returns-and-warranty)
     - [Returns](#returns)
     - [Warranty](#warranty)
+  - [Testimonials and Reviews](#testimonials-and-reviews)
   - [FAQ](#faq)
   - [Contact](#contact)
   - [Glossary](#glossary)
@@ -22,6 +23,7 @@
 I'm Alan, I'm a 21 year old university student. I've been tinkering with electrical projects for as long as I can remember, and have been soldering for over 10 years now. I've always had an interest in audio equipment, but visiting a HeadFi event in 2018 really sparked a passion for me. Since then, I've accumulated a few high-end and midrange headphones and have gotten stuck in with modding, repairing, and otherwise tinkering with portable audio equipment.
 
 ![Cable](./pics/red-black-blue.jpg)
+_More pictures available [here](https://drive.google.com/open?id=1TaY7_JfRnlylWYvRs6gfiyFJBXne6QWk)_
 
 The audio game is already prohibitively expensive -  I'd rather keep things low-price and high-quality so the everyday audiophile can have a cable they love the look and feel of, rather than cater to those with more money than sense. So in 2020, I decided to make a cost-effective solution for those who want custom cables.
 
@@ -33,14 +35,16 @@ All my cables are hand-made in the UK, using legitimate quality parts sourced fr
 
 Right, here's the meat-and-potatoes of this page. _Cables_. The main difference between the series is the specific conductor used.
 
-My pricing structure is simple; A basic cost-per-metre for braided cables, plus the cost of connectors (which vary significantly).
+My pricing structure is simple; **A basic cost-per-metre for braided cables, plus the cost of connectors** (which vary significantly).
 
-| Series                    |Cost per Metre|
-|---------------------------|--------------|
-| [Ika](#ika-series)        | £12.00       |
-| [Kiore](#kiore-series)    | £15.50       |
-| [Manu](#manu-series)      | £12.00       |
-| [Tumuku](#tumuku-series)  | £18.50       |
+| Series                    | Application | Cost per Metre |
+|---------------------------|-------------|----------------|
+| [Ika](#ika-series)        | Headphones  | £12.00         |
+| [Kiore](#kiore-series)    | Headphones  | £15.50         |
+| [Manu](#manu-series)      | Speakers    | £12.00         |
+| [Tumuku](#tumuku-series)  | Headphones  | £18.50         |
+
+Note that the vast majority of my cables are unshielded, and are therefore unsuitable for instrument or microphone cables. I am however able to make appropriately shielded cables, but I really like braiding things. It's fun.
 
 I can ship internationally, and can provide quotes but if you want to figure out an estimate feel free to do so [here](https://www.royalmail.com/price-finder).
 
@@ -50,20 +54,52 @@ All of my Y-splitting cables utilise a custom aluminium-shell Y-split.
 
 ![Y-split](./pics/ysplit.jpg)
 
-
 To help me offer an accurate quote, please fill out the following form:
-```
+
+``` none
+
 Cable Request
-Type:     [series] 
-Length:   [specify unit] 
-Source:   [amp end] 
+Type:     [series]
+Length:   [specify unit]
+Source:   [amp end]
 Sink:     [headphone end]
-Colours:  [pick up to four] 
-Location: [country] 
+Colours:  [pick up to four]
+Location: [country]
 
 ```
 
 ----
+
+### Connectors
+
+At some point, I'm going to list every connector I can get easily, and the general lead-time on availability.
+The lead-time only applies to items I don't have to hand - as a student, I can't afford to keep hundreds of pounds worth of connectors immediately to hand, but I do try and keep the common ones readily available.
+
+These are connectors I can easily get within a few days, typically less than a week.
+
+``` none
+
+3.5mm TS, 3.5mm TRS, 3.5mm TRRS, 2.5mm TS, 2.5mm TRRS, 6.35mm TRS, XLR 4, XLR 3, Mini XLR 4, Mini XLR 3, RCA, Banana
+
+```
+
+There are several other connectors that I *sometimes* have to hand, but if not, I can order from the UK at a higher rate. If you're willing to wait, I am happy to order these from overseas suppliers which can often be significantly cheaper.
+The high-rate connectors are typically available in less than a week, but overseas may take significantly longer.
+
+``` none
+
+Pentaconn, Sennhesier HD6XX style, HD800 style
+
+```
+
+And then there's the ones I've yet to figure out how to get from the UK, so I'll likely have to order them from overseas.
+These may take significantly longer.
+
+``` none
+
+HiRose (MrSpeakers), Fostex TH-900 style
+
+```
 
 ### Ika Series
 
@@ -96,9 +132,9 @@ _Conductor material:_ Pure copper.
 
 ### Manu Series
 
-Manu is a side-step on the Kiore series. It's not much different in price, but it's a bit heavier cable.
+Manu is a side-step on the Kiore series. It's not much different in price, but it's a significantly heavier cable.
 
-Cables made using Manu may not be as flexible as Kiore or Ika due to Manu cables using a thicker gauge than the other two, so this option may not be suitable for all use-cases.
+Cables made using Manu may not be as flexible as Kiore or Ika due to Manu cables using a thicker gauge than the other two, so this option may not be suitable for all use-cases. This is what I use for speaker cables, as it's thick and heavy without being overbearing. It can also be sleeved to make for attractive looking cables that run between your power amplifier and your speakers.
 
 _Conductor material:_ Pure copper.
 
@@ -145,16 +181,18 @@ Outside of this period, I will be willing to repair cables for a small fee.
 
 ## Testimonials and Reviews
 
-> Custom cable by Alan Lovell. 
-> I managed to chance into this person on a post about cables. I was in the market for a custom cable for my Hifiman HE-4XX. After a few messages back and forth about what I was after, length, color, terminations and such. A painless PayPal was sent and I sat back and waited. I got regular updates on the build and status of my cable, which was super! When everything was finished up, verification of address and pics of finished cable were sent. Two weeks later I had this cable in my hands!  
-> First impression.  
-> Cable was packaged well. Included was a signed card with color choices, termination and such. Cable felt well built, everything was even. There were no uneven gaps or unsightly kinks when evened out. It was exactly what I wanted when I ordered. Not too stiff, but not too floppy either.  
-> Actual use.  
-> I plugged them into my 4XX, the 3.5mm ends attached with a satisfying click. The 3.5mm se plug attached to my nx3s with no fuss. I’m not a big believer in cables changing sound, ymmv. There were no cutouts or static or random noises when turning, twisting, or walking around.  
-> Verdict!  
-> I am extremely happy with my purchase. Cable is exactly what I wanted, affordable, and service was exceptional! Will definitely order again!  
+If anyone has given me a response when receiving my cables, I'll do my best to update this section and keep any reviews here.
 
-~Tim, owner of cable #5
+Quote from Tim, owner of cable #5.  
+Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permalink/3052179834841487/)
+> **Custom cable by Alan Lovell.**  
+> I managed to chance into this person on a post about cables. I was in the market for a custom cable for my Hifiman HE-4XX. After a few messages back and forth about what I was after, length, color, terminations and such. A painless PayPal was sent and I sat back and waited. I got regular updates on the build and status of my cable, which was super! When everything was finished up, verification of address and pics of finished cable were sent. Two weeks later I had this cable in my hands!  
+> **First impression.**  
+> Cable was packaged well. Included was a signed card with color choices, termination and such. Cable felt well built, everything was even. There were no uneven gaps or unsightly kinks when evened out. It was exactly what I wanted when I ordered. Not too stiff, but not too floppy either.  
+> **Actual use.**  
+> I plugged them into my 4XX, the 3.5mm ends attached with a satisfying click. The 3.5mm se plug attached to my nx3s with no fuss. I’m not a big believer in cables changing sound, ymmv. There were no cutouts or static or random noises when turning, twisting, or walking around.  
+> **Verdict!**  
+> I am extremely happy with my purchase. Cable is exactly what I wanted, affordable, and service was exceptional! Will definitely order again!  
 
 ----
 
@@ -176,7 +214,7 @@ I personally focus on price:performance, so my conductor and connector choices a
 ## Contact
 
 I mostly use email and Instagram.
-Email - [Link](mailto:cables@nlovell.net)   
+Email - [Link](mailto:cables@nlovell.net)  
 Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)  
 
 ## Glossary
