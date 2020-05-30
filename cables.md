@@ -50,6 +50,19 @@ All of my Y-splitting cables utilise a custom aluminium-shell Y-split.
 
 ![Y-split](./pics/ysplit.jpg)
 
+
+To help me offer an accurate quote, please fill out the following form:
+```
+Cable Request
+Type:     [series] 
+Length:   [specify unit] 
+Source:   [amp end] 
+Sink:     [headphone end]
+Colours:  [pick up to four] 
+Location: [country] 
+
+```
+
 ----
 
 ### Ika Series
