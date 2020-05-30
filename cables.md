@@ -44,15 +44,13 @@ My pricing structure is simple; **A basic cost-per-metre for braided cables, plu
 | [Manu](#manu-series)      | Speakers    | £12.00         |
 | [Tumuku](#tumuku-series)  | Headphones  | £18.50         |
 
-Note that the vast majority of my cables are unshielded, and are therefore unsuitable for instrument or microphone cables. I am however able to make appropriately shielded cables, but I really like braiding things. It's fun.
+Note that the vast majority of my cables are unshielded, and are therefore unsuitable for instrument or microphone cables. I am however able to make appropriately shielded cables, but I really like braiding things. It's fun. All of my Y-splitting cables utilise a custom aluminium-shell Y-split.
 
-I can ship internationally, and can provide quotes but if you want to figure out an estimate feel free to do so [here](https://www.royalmail.com/price-finder).
+![Y-split](./pics/ysplit.jpg)
 
 I currently use Cardas Audio Quad Eutectic Solder when making my cables, if anyone cares. It's a blend of silver, copper, tin, and lead according to the [Cardas Audio website](http://www.cardas.com/solder.php).
 
-All of my Y-splitting cables utilise a custom aluminium-shell Y-split.
-
-![Y-split](./pics/ysplit.jpg)
+I can ship internationally, and can provide quotes but if you want to figure out an estimate feel free to do so [here](https://www.royalmail.com/price-finder).
 
 To help me offer an accurate quote, please fill out the following form:
 
@@ -68,12 +66,15 @@ Location: [country]
 
 ```
 
+
 ----
 
 ### Connectors
 
 At some point, I'm going to list every connector I can get easily, and the general lead-time on availability.
 The lead-time only applies to items I don't have to hand - as a student, I can't afford to keep hundreds of pounds worth of connectors immediately to hand, but I do try and keep the common ones readily available.
+
+![Connectors](./pics/connectors.jpg)
 
 These are connectors I can easily get within a few days, typically less than a week.
 
@@ -103,7 +104,10 @@ HiRose (MrSpeakers), Fostex TH-900 style
 
 ### Ika Series
 
-Ika are the entry-level cables made here. They're a harder-wearing and last a long time.
+Ika are the entry-level cables made here. They're a hard-wearing sleeved cable and last a long time.  
+This is what most people come here for, as they are optimised for price:performance. I tend to have a lot of this material to hand at any given time.
+
+![Portal Cable](./pics/portal.jpg)
 
 _Conductor material:_ Pure copper twisted with silver-plated strands.
 
@@ -119,6 +123,7 @@ _Conductor material:_ Pure copper twisted with silver-plated strands.
 ### Kiore Series
 
 Kiore are a step-up from the Ika, but still firmly in the "affordable" range of prices.
+Kiore is a little more flexible than Ika, which some may prefer.
 
 _Conductor material:_ Pure copper.
 
@@ -134,7 +139,7 @@ _Conductor material:_ Pure copper.
 
 Manu is a side-step on the Kiore series. It's not much different in price, but it's a significantly heavier cable.
 
-Cables made using Manu may not be as flexible as Kiore or Ika due to Manu cables using a thicker gauge than the other two, so this option may not be suitable for all use-cases. This is what I use for speaker cables, as it's thick and heavy without being overbearing. It can also be sleeved to make for attractive looking cables that run between your power amplifier and your speakers.
+Cables made using Manu are not be as flexible as Kiore or Ika due to Manu cables due to significantly thicker gauge than the other two, so this option may not be suitable for all use-cases. This is what I use for speaker cables, as it's thick and heavy without being overbearing. It is available unsleeved in black, white, red and green; Manu cables can also be sleeved to make for that stylish flair between your power amplifier and your speakers.
 
 _Conductor material:_ Pure copper.
 
@@ -148,7 +153,7 @@ _Conductor material:_ Pure copper.
 
 ### Tumuku Series
 
-Tumuku is a fine braid stranded SCP copper, all made and assembled in England. PTFE insulation makes it softer than XLCPE, so this wire is better suited for IEMs. Available in various colours (unsleeved).
+Tumuku is a fine braid stranded SCP copper, all made and assembled in England. PTFE insulation makes it softer than XLCPE, so this wire is better suited for IEMs. Available in various colours (unsleeved), and more various coloures (sleeved).
 
 _Conductor material:_ Silver-plated copper.
 
@@ -197,19 +202,21 @@ Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permali
 ----
 
 ## FAQ
+You got questions? I got answers.
 
-_What can you make?_
-
+**_What can you make?_**  
 Anything you want! I primarily deal with 4 and 3-core braids, but I can go higher, and can work with almost any kind of connectors. _USB?_ Done. _Mini-XLR?_ Cool. _Full-size XLR?_ Easy. _DMX?_ Yep.  
-If you're willing to pay for the connectors, I'm willing to make cables for them.
+If you're willing to pay for the connectors, I'm willing to make cables for them.  
+There are some cables that might not be best suited to be braided, which I will advise on, but if you care more for appearance than performance who am I to stop you?
 
-_How many have you made?_
-
+**_How many have you made?_**  
 Enough. I've soldered several dozen cables, and have been building a portfolio of my braided cable works since 2020. Said gallery can be found [here](https://drive.google.com/open?id=1TaY7_JfRnlylWYvRs6gfiyFJBXne6QWk). Inside you'll find examples of braiding, finished cables, and close-up photos of my soldering work.
 
-_What material do you use?_
-
+**_What material do you use?_**  
 I personally focus on price:performance, so my conductor and connector choices are usually what people would call "midrange". Refer to the _Specs for Nerds_ tables relating to specific [cables](#cables) for more details. But if you're willing to pay for more expensive materials, I'm more than happy to work with them.
+
+**_Where do you buy your materials?_**  
+Wherever possible, I use UK and European suppliers and brands - however this isn't always possible, thanks to obscure connectors that are an absolute pain to get in the UK (4.4mm is one such example).
 
 ## Contact
 
