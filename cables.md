@@ -132,14 +132,15 @@ Outside of this period, I will be willing to repair cables for a small fee.
 
 ## Testimonials and Reviews
 
-> Custom cable by Alan Lovell
-> I managed to chance into this person on a post about cables. I was in the market for a custom cable for my Hifiman HE-4XX. After a few messages back and forth about what I was after, length, color, terminations and such. A painless PayPal was sent and I sat back and waited. I got regular updates on the build and status of my cable, which was super! When everything was finished up, verification of address and pics of finished cable were sent. Two weeks later I had this cable in my hands!
-> First impression. 
-> Cable was packaged well. Included was a signed card with color choices, termination and such. Cable felt well built, everything was even. There were no uneven gaps or unsightly kinks when evened out. It was exactly what I wanted when I ordered. Not too stiff, but not too floppy either. 
-> Actual use. 
-> I plugged them into my 4XX, the 3.5mm ends attached with a satisfying click. The 3.5mm se plug attached to my nx3s with no fuss. I’m not a big believer in cables changing sound, ymmv. There were no cutouts or static or random noises when turning, twisting, or walking around. 
-> Verdict!
-> I am extremely happy with my purchase. Cable is exactly what I wanted, affordable, and service was exceptional! Will definitely order again!
+> Custom cable by Alan Lovell. 
+> I managed to chance into this person on a post about cables. I was in the market for a custom cable for my Hifiman HE-4XX. After a few messages back and forth about what I was after, length, color, terminations and such. A painless PayPal was sent and I sat back and waited. I got regular updates on the build and status of my cable, which was super! When everything was finished up, verification of address and pics of finished cable were sent. Two weeks later I had this cable in my hands!  
+> First impression.  
+> Cable was packaged well. Included was a signed card with color choices, termination and such. Cable felt well built, everything was even. There were no uneven gaps or unsightly kinks when evened out. It was exactly what I wanted when I ordered. Not too stiff, but not too floppy either.  
+> Actual use.  
+> I plugged them into my 4XX, the 3.5mm ends attached with a satisfying click. The 3.5mm se plug attached to my nx3s with no fuss. I’m not a big believer in cables changing sound, ymmv. There were no cutouts or static or random noises when turning, twisting, or walking around.  
+> Verdict!  
+> I am extremely happy with my purchase. Cable is exactly what I wanted, affordable, and service was exceptional! Will definitely order again!  
+
 ~Tim, owner of cable #5
 
 ----
