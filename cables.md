@@ -188,7 +188,7 @@ Outside of this period, I will be willing to repair cables for a small fee.
 
 If anyone has given me a response when receiving my cables, I'll do my best to update this section and keep any reviews here.
 
-Quote from Tim, owner of cable #5.  
+Quote from Tim, owner of [Cable #5](https://drive.google.com/open?id=1DuVo1PUs0NMrvRNHjxNE47YNgnMcCtFh).  
 Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permalink/3052179834841487/)
 > **Custom cable by Alan Lovell.**  
 > I managed to chance into this person on a post about cables. I was in the market for a custom cable for my Hifiman HE-4XX. After a few messages back and forth about what I was after, length, color, terminations and such. A painless PayPal was sent and I sat back and waited. I got regular updates on the build and status of my cable, which was super! When everything was finished up, verification of address and pics of finished cable were sent. Two weeks later I had this cable in my hands!  
