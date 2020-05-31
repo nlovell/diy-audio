@@ -13,6 +13,7 @@
     - [Warranty](#warranty)
   - [Contact](#contact)
   - [Testimonials and Reviews](#testimonials-and-reviews)
+  - [> My cables were made professionally in good time and at a reasonable price for artisan handmade products](#blockquotemy-cables-were-made-professionally-in-good-time-and-at-a-reasonable-price-for-artisan-handmade-productsblockquote)
   - [FAQ](#faq)
   - [Glossary](#glossary)
 
@@ -195,6 +196,8 @@ Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)
 
 If anyone has given me a response when receiving my cables, I'll do my best to update this section and keep any reviews here.
 
+<br />
+
 Quote from Tim, owner of [Cable #5](https://drive.google.com/open?id=1DuVo1PUs0NMrvRNHjxNE47YNgnMcCtFh).  
 Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permalink/3052179834841487/)
 > **Custom cable by Alan Lovell.**  
@@ -206,6 +209,10 @@ Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permali
 > **Verdict!**  
 > I am extremely happy with my purchase. Cable is exactly what I wanted, affordable, and service was exceptional! Will definitely order again!  
 
+<br />
+
+Quote from Alfie, owner of [Cable #7](https://drive.google.com/open?id=1poDomCWaZ5m3DLxan-p1_YMCEZnUS6Va) and [Cable #9](https://drive.google.com/open?id=1GZjQVTKHQeZSMM4wwP2Y6JxlY7ORJfdj).  
+> My cables were made professionally in good time and at a reasonable price for artisan handmade products
 ----  
 
 ## FAQ
