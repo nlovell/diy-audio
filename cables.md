@@ -11,9 +11,9 @@
   - [Returns and Warranty](#returns-and-warranty)
     - [Returns](#returns)
     - [Warranty](#warranty)
+  - [Contact](#contact)
   - [Testimonials and Reviews](#testimonials-and-reviews)
   - [FAQ](#faq)
-  - [Contact](#contact)
   - [Glossary](#glossary)
 
 ----
@@ -65,7 +65,6 @@ Colours:  [pick up to four]
 Location: [country]
 
 ```
-
 
 ----
 
@@ -184,6 +183,14 @@ Outside of this period, I will be willing to repair cables for a small fee.
 
 ----
 
+## Contact
+
+I mostly use email and Instagram.
+Email - [Link](mailto:cables@nlovell.net)  
+Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)
+
+----
+
 ## Testimonials and Reviews
 
 If anyone has given me a response when receiving my cables, I'll do my best to update this section and keep any reviews here.
@@ -199,11 +206,14 @@ Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permali
 > **Verdict!**  
 > I am extremely happy with my purchase. Cable is exactly what I wanted, affordable, and service was exceptional! Will definitely order again!  
 
-----
+----  
 
 ## FAQ
 
 You got questions? I got answers.
+
+**_What payment methods do you accept?_**  
+Primarily, I use PayPal - however, I'm willing to make custom listings on eBay for that peace of mind. Unfortunately, eBay do charge fees to use, so this fee will be added onto the agreed price. Usually this is 10% of the total cost, which is why I don't like using eBay as it artificially inflates the cost of my products.
 
 **_What can you make?_**  
 Anything you want! I primarily deal with 4 and 3-core braids, but I can go higher, and can work with almost any kind of connectors. _USB?_ Done. _Mini-XLR?_ Cool. _Full-size XLR?_ Easy. _DMX?_ Yep.  
@@ -234,21 +244,19 @@ Typically the series will just be the name of the conductor used, be that Ika, K
 | Ika U | Typically my cables are sleeved and braided - the U denotes they are unsleeved |
 | Ika B | The B stands for Bundle, and means that they're sleeved, but unbraided |
 
-**_What payment methods do you accept?_**  
-Primarily, I use PayPal - however, I'm willing to make custom listings on eBay for that peace of mind. Unfortunately, eBay do charge fees to use, so this fee will be added onto the agreed price. Usually this is 10% of the total cost, which is why I don't like using eBay as it artificially inflates the cost of my products.
+These modifiers may be used in conjunction with one another - for example, there may be an _Ika 3B - Tahu_ cable. This one would be a Tahu-themed cable with 3 bundled (non-braided) cores.
 
-## Contact
-
-I mostly use email and Instagram.
-Email - [Link](mailto:cables@nlovell.net)  
-Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)  
+----
 
 ## Glossary
 
-Want to know what something means? Here's a list of acronyms I've used here.
+Want to know what something means? Here's a list of acronyms and terms I've used here. Individual's nomenclature may vary, so this is specifically what I mean.
 
 | Term  | Meaning                   |
 |-------|---------------------------|
 | OFC   | Oxygen Free Copper        |
 | SPC   | Silver-Plated Copper      |
 | XLPCE | Cross-linked polyethylene |
+| Braided | Weaving multiple strands together |
+| Sleeved | Covered in a cloth outer |
+| Bundled | Multiple strands in a single non-braided "bundle" |
