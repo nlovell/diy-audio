@@ -202,6 +202,7 @@ Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permali
 ----
 
 ## FAQ
+
 You got questions? I got answers.
 
 **_What can you make?_**  
@@ -217,6 +218,9 @@ I personally focus on price:performance, so my conductor and connector choices a
 
 **_Where do you buy your materials?_**  
 Wherever possible, I use UK and European suppliers and brands - however this isn't always possible, thanks to obscure connectors that are an absolute pain to get in the UK (4.4mm is one such example).
+
+**_What payment methods do you accept?_**  
+Primarily, I use PayPal - however, I'm willing to make custom listings on eBay for that peace of mind. Unfortunately, eBay do charge fees to use, so this fee will be added onto the agreed price. Usually this is 10% of the total cost, which is why I don't like using eBay as it artificially inflates the cost of my products.
 
 ## Contact
 
