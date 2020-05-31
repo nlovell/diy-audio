@@ -219,6 +219,21 @@ I personally focus on price:performance, so my conductor and connector choices a
 **_Where do you buy your materials?_**  
 Wherever possible, I use UK and European suppliers and brands - however this isn't always possible, thanks to obscure connectors that are an absolute pain to get in the UK (4.4mm is one such example).
 
+**_What's in the box?_**  
+Well, typically my cables aren't boxed, but I get the gist of the question.  
+Most of my cables are shipped in a bubble mailer pouch, and inside that they're kept safe and dry inside another zip-lock style bag. All my cables are provided with a velcro-style cable tidy, and a unique numbered Certificate of Authenticity which is logged with photographs on my Google Drive.
+
+**_My series has something weird next to it! What does it mean?_**  
+Typically the series will just be the name of the conductor used, be that Ika, Kiore, Tumuku, or any of the rest. If they're standard cables, then you'll just see the name. If there's any deviation, refer to this table. All the examples below use Ika, but the principle applies to any cables.
+
+|Series | Meaning |
+|-|-|
+| Ika | Stock Ika configuration |
+| Ika 3 | Ika made with a non-standard number of cores, eg 3 (instead of 4) |
+| Ika - Tahu | Part of the _inspired by_ range; a dash followed by another word means that this cable has a distinct theme |
+| Ika U | Typically my cables are sleeved and braided - the U denotes they are unsleeved |
+| Ika B | The B stands for Bundle, and means that they're sleeved, but unbraided |
+
 **_What payment methods do you accept?_**  
 Primarily, I use PayPal - however, I'm willing to make custom listings on eBay for that peace of mind. Unfortunately, eBay do charge fees to use, so this fee will be added onto the agreed price. Usually this is 10% of the total cost, which is why I don't like using eBay as it artificially inflates the cost of my products.
 
