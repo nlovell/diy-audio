@@ -107,6 +107,8 @@ HiRose (MrSpeakers), Fostex TH-900 style
 Ika are the entry-level cables made here. They're a hard-wearing sleeved cable and last a long time.  
 This is what most people come here for, as they are optimised for price:performance. I tend to have a lot of this material to hand at any given time.
 
+Being a blend of pure copper and silver-plated copper, Ika tends to offer the most balanced sound.
+
 ![Portal Cable](./pics/portal.jpg)
 
 _Conductor material:_ Pure copper twisted with silver-plated strands.
@@ -124,6 +126,8 @@ _Conductor material:_ Pure copper twisted with silver-plated strands.
 
 Kiore are a step-up from the Ika, but still firmly in the "affordable" range of prices.
 Kiore is a little more flexible than Ika, which some may prefer.
+
+Being a pure-copper cable, Kiore offers a subtly warmer experience than Ika.
 
 _Conductor material:_ Pure copper.
 
@@ -153,7 +157,9 @@ _Conductor material:_ Pure copper.
 
 ### Tumuku Series
 
-Tumuku is a fine braid stranded SCP copper, all made and assembled in England. PTFE insulation makes it softer than XLCPE, so this wire is better suited for IEMs. Available in various colours (unsleeved), and more various coloures (sleeved).
+Tumuku is a fine stranded SCP copper, all made and assembled in England. PTFE insulation makes it softer than XLCPE, so this wire is better suited for IEMs. Available in various colours (unsleeved), and more various coloures (sleeved).
+
+Being an entirely silver-plated copper cable, Tumuku offers the clean sparkle of silver without an absurd price-tag.
 
 _Conductor material:_ Silver-plated copper.
 
@@ -201,7 +207,7 @@ There's a few different ways to get ahold of me. Links of all such methods can b
 
 ## Testimonials and Reviews
 
-If anyone has given me a response when receiving my cables, I'll do my best to update this section and keep any reviews here.
+If anyone has given me a response when receiving my cables, I'll do my best to update this section and keep any reviews (with sources wherever possible) here.
 
 <br />
 
