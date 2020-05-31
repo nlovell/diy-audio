@@ -179,16 +179,23 @@ As the cost will vary, please ask about the returns related to your specific con
 
 ### Warranty
 
-I will honour a 12 month warranty on any of my analogue cables, from the date provided on your certificate of authenticity.
+Unless stated otherwise, I will honour a 12 month warranty for all of my analogue cables, from the date provided on your certificate of authenticity.
 Outside of this period, I will be willing to repair cables for a small fee.
+
+Exceptions: _Cables made using OTR materials will receive a shorter warranty of 4 months instead._
 
 ----
 
 ## Contact
 
-I mostly use email and Instagram.
-Email - [Link](mailto:cables@nlovell.net)  
-Instagram - [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)
+There's a few different ways to get ahold of me. Links of all such methods can be found below:
+
+|||
+|------------|-------------------------------------------------------------------|
+|Email       | [cables@nlovell.net](mailto:cables@nlovell.net)                   |
+|Instagram   | [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)   |
+|Facebook    | [@nlovellaudiocables](https://facebook.com/nlovellaudiocables)    |
+|eBay        | [nlovelldotnet](https://www.ebay.co.uk/usr/nlovelldotnet)         |
 
 ----
 
@@ -250,6 +257,7 @@ Typically the series will just be the name of the conductor used, be that Ika, K
 | Ika - Tahu | Part of the _inspired by_ range; a dash followed by another word means that this cable has a distinct theme |
 | Ika U | Typically my cables are sleeved and braided - the U denotes they are unsleeved |
 | Ika B | The B stands for Bundle, and means that they're sleeved, but unbraided |
+| OTR | Off The Record - this is usually conductor outside of my general provisions, and is usually reserved for one-off builds. |
 
 These modifiers may be used in conjunction with one another - for example, there may be an _Ika 3B - Tahu_ cable. This one would be a Tahu-themed cable with 3 bundled (non-braided) cores.
 
