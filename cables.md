@@ -5,6 +5,8 @@
   - [Cables](#cables)
     - [Connectors](#connectors)
     - [Ika Series](#ika-series)
+      - [Ika 1](#ika-1)
+      - [Ika 2](#ika-2)
     - [Kiore Series](#kiore-series)
     - [Manu Series](#manu-series)
     - [Tumuku Series](#tumuku-series)
@@ -13,7 +15,7 @@
     - [Warranty](#warranty)
   - [Contact](#contact)
   - [Testimonials and Reviews](#testimonials-and-reviews)
-  - [> My cables were made professionally in good time and at a reasonable price for artisan handmade products](#blockquotemy-cables-were-made-professionally-in-good-time-and-at-a-reasonable-price-for-artisan-handmade-productsblockquote)
+  - [> Once in my hands, the cables he made for me were far beyond what I could have hoped, the build quality and attention to detail blew me away. An incredible amount of care went into building this cable, that much is clear. I couldn't be more satisfied and intend to do more business in the future.](#blockquoteonce-in-my-hands-the-cables-he-made-for-me-were-far-beyond-what-i-could-have-hoped-the-build-quality-and-attention-to-detail-blew-me-away-an-incredible-amount-of-care-went-into-building-this-cable-that-much-is-clear-i-couldnt-be-more-satisfied-and-intend-to-do-more-business-in-the-futureblockquote)
   - [FAQ](#faq)
   - [Glossary](#glossary)
 
@@ -40,7 +42,8 @@ My pricing structure is simple; **A basic cost-per-metre for braided cables, plu
 
 | Series                    | Application | Cost per Metre |
 |---------------------------|-------------|----------------|
-| [Ika](#ika-series)        | Headphones  | £12.00         |
+| [Ika](#ika-1)        | Headphones  | £12.00         |
+| [Ika 2](#ika-2)        | Headphones  | £13.50         |
 | [Kiore](#kiore-series)    | Headphones  | £15.50         |
 | [Manu](#manu-series)      | Speakers    | £12.00         |
 | [Tumuku](#tumuku-series)  | Headphones  | £18.50         |
@@ -107,9 +110,13 @@ HiRose (MrSpeakers), Fostex TH-900 style
 Ika are the entry-level cables made here. They're a hard-wearing sleeved cable and last a long time.  
 This is what most people come here for, as they are optimised for price:performance. I tend to have a lot of this material to hand at any given time.
 
+![Portal Cable](./pics/portal.jpg)
+
 Being a blend of pure copper and silver-plated copper, Ika tends to offer the most balanced sound.
 
-![Portal Cable](./pics/portal.jpg)
+#### Ika 1
+
+Ika 1 (or Ika Classic) is the first cable type we offered here, and is a solid all-rounder. Ika 1 is the preference for those who enjoy a bit more rigidity to their cable.
 
 _Conductor material:_ Pure copper twisted with silver-plated strands.
 
@@ -122,10 +129,25 @@ _Conductor material:_ Pure copper twisted with silver-plated strands.
 |Unsleeved core size | 1.6mm             |
 |Sleeved core size   | 1.9mm             |
 
+#### Ika 2
+
+Ika 2 offers the same electrical specification in a softer insulation layer, which makes it the softest and most supple cable in the lineup so far.
+
+_Conductor material:_ Pure copper twisted with silver-plated strands.
+
+| Specs for nerds    |                   |
+|--------------------|-------------------|
+|Conductors          | 7x  .08mm SPC OFC |
+|                    | 32x .08mm OFC     |
+|Insulation          | XLPCE             |
+|Resistance          | .093 Ω/m          |
+|Unsleeved core size | 1.3mm             |
+|Sleeved core size   | 1.9mm             |
+
 ### Kiore Series
 
 Kiore are a step-up from the Ika, but still firmly in the "affordable" range of prices.
-Kiore is a little more flexible than Ika, which some may prefer.
+Kiore is a little more flexible than Ika Classic, which some may prefer.
 
 Being a pure-copper cable, Kiore offers a subtly warmer experience than Ika.
 
@@ -153,11 +175,11 @@ _Conductor material:_ Pure copper.
 |Insulation          | XLCPE          |
 |Resistance          | .013Ω/m        |
 |Unsleeved core size | 2.3mm          |
-|Sleeved core size   | 2.6mm          |
+|Sleeved core size   | 2.8mm          |
 
 ### Tumuku Series
 
-Tumuku is a fine stranded SCP copper, all made and assembled in England. PTFE insulation makes it softer than XLCPE, so this wire is better suited for IEMs. Available in various colours (unsleeved), and more various coloures (sleeved).
+Tumuku is a fine stranded SCP copper, all made and assembled in England. PTFE insulation makes for a soft-touch outer, even when unsleeved.  Currently available in black or white (unsleeved), and various colours (sleeved).
 
 Being an entirely silver-plated copper cable, Tumuku offers the clean sparkle of silver without an absurd price-tag.
 
@@ -226,6 +248,14 @@ Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permali
 
 Quote from Alfie, owner of [Cable #7](https://drive.google.com/open?id=1poDomCWaZ5m3DLxan-p1_YMCEZnUS6Va) and [Cable #9](https://drive.google.com/open?id=1GZjQVTKHQeZSMM4wwP2Y6JxlY7ORJfdj).  
 > My cables were made professionally in good time and at a reasonable price for artisan handmade products
+> 
+<br />
+
+Quote from Mason, owner of [Cable #8](https://drive.google.com/open?id=1FLlW00S1Uwn22bGKMGipi62RM3DMODpJ).  
+Original post [here](https://www.facebook.com/Yolteotl/posts/10158227232643911)
+
+> I was lucky enough to stumble upon some beautiful pictures of handmade cables in a Facebook group. I was impressed enough to commission a replacement for a 12 year old pair of headphones I wanted to resurrect. Mr. Lovell was kind and prompt, and was happy to help me figure out exactly what kind of materials, colours, and connectors would work perfectly for my application.  
+> Once in my hands, the cables he made for me were far beyond what I could have hoped, the build quality and attention to detail blew me away. An incredible amount of care went into building this cable, that much is clear. I couldn't be more satisfied and intend to do more business in the future.
 ----  
 
 ## FAQ
