@@ -15,7 +15,6 @@
     - [Warranty](#warranty)
   - [Contact](#contact)
   - [Testimonials and Reviews](#testimonials-and-reviews)
-  - [> Once in my hands, the cables he made for me were far beyond what I could have hoped, the build quality and attention to detail blew me away. An incredible amount of care went into building this cable, that much is clear. I couldn't be more satisfied and intend to do more business in the future.](#blockquoteonce-in-my-hands-the-cables-he-made-for-me-were-far-beyond-what-i-could-have-hoped-the-build-quality-and-attention-to-detail-blew-me-away-an-incredible-amount-of-care-went-into-building-this-cable-that-much-is-clear-i-couldnt-be-more-satisfied-and-intend-to-do-more-business-in-the-futureblockquote)
   - [FAQ](#faq)
   - [Glossary](#glossary)
 
@@ -248,7 +247,7 @@ Original post [here](https://www.facebook.com/groups/HeadphoneAmplifiers/permali
 
 Quote from Alfie, owner of [Cable #7](https://drive.google.com/open?id=1poDomCWaZ5m3DLxan-p1_YMCEZnUS6Va) and [Cable #9](https://drive.google.com/open?id=1GZjQVTKHQeZSMM4wwP2Y6JxlY7ORJfdj).  
 > My cables were made professionally in good time and at a reasonable price for artisan handmade products
-> 
+
 <br />
 
 Quote from Mason, owner of [Cable #8](https://drive.google.com/open?id=1FLlW00S1Uwn22bGKMGipi62RM3DMODpJ).  
@@ -256,6 +255,7 @@ Original post [here](https://www.facebook.com/Yolteotl/posts/10158227232643911)
 
 > I was lucky enough to stumble upon some beautiful pictures of handmade cables in a Facebook group. I was impressed enough to commission a replacement for a 12 year old pair of headphones I wanted to resurrect. Mr. Lovell was kind and prompt, and was happy to help me figure out exactly what kind of materials, colours, and connectors would work perfectly for my application.  
 > Once in my hands, the cables he made for me were far beyond what I could have hoped, the build quality and attention to detail blew me away. An incredible amount of care went into building this cable, that much is clear. I couldn't be more satisfied and intend to do more business in the future.
+
 ----  
 
 ## FAQ
