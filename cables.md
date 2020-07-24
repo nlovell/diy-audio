@@ -3,7 +3,6 @@
 - [nlovell audio cables](#nlovell-audio-cables)
   - [About Me](#about-me)
   - [Cables](#cables)
-    - [Connectors](#connectors)
     - [Ika Series](#ika-series)
       - [Ika 1](#ika-1)
       - [Ika 2](#ika-2)
@@ -68,6 +67,14 @@ Colours:  [pick up to four]
 Location: [country]
 
 ```
+
+If you don't know exactly what you're after, I have a slightly different form for you
+
+``` none
+
+Cable Assistance
+Headphone:  [make and model]
+Amplifier:  [make and model]
 
 ----
 
@@ -220,9 +227,10 @@ There's a few different ways to get ahold of me. Links of all such methods can b
 |||
 |------------|-------------------------------------------------------------------|
 |Email       | [cables@nlovell.net](mailto:cables@nlovell.net)                   |
-|Instagram   | [@nlovellaudiocables](https://instagram.com/nlovellaudiocables)   |
-|Facebook    | [@nlovellaudiocables](https://facebook.com/nlovellaudiocables)    |
+|Instagram   | [@nlovellaudiocables](https://instagram.com/nlovellaudio)   |
+|Facebook    | [@nlovellaudiocables](https://facebook.com/nlovellaudio)    |
 |eBay        | [nlovelldotnet](https://www.ebay.co.uk/usr/nlovelldotnet)         |
+|Reddit      | [u/nlovellaudio](https://reddit.com/u/nlovellaudio) |
 
 ----
 
@@ -255,6 +263,13 @@ Original post [here](https://www.facebook.com/Yolteotl/posts/10158227232643911)
 
 > I was lucky enough to stumble upon some beautiful pictures of handmade cables in a Facebook group. I was impressed enough to commission a replacement for a 12 year old pair of headphones I wanted to resurrect. Mr. Lovell was kind and prompt, and was happy to help me figure out exactly what kind of materials, colours, and connectors would work perfectly for my application.  
 > Once in my hands, the cables he made for me were far beyond what I could have hoped, the build quality and attention to detail blew me away. An incredible amount of care went into building this cable, that much is clear. I couldn't be more satisfied and intend to do more business in the future.
+ 
+<br />
+
+Quote from CJ, owner of [Cable #19](https://drive.google.com/open?id=1KWutMMOWr--xxkJba06sLK5qM7Y1R655).  
+Original post [here](https://www.facebook.com/10159870513291982)
+
+> Thrilled with the finish and quality of my cable, but it’s the expert advice and service that really stood apart. Thanks!
 
 ----  
 
