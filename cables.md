@@ -38,13 +38,13 @@ Right, here's the meat-and-potatoes of this page. _Cables_. The main difference 
 
 My pricing structure is simple; **A basic cost-per-metre for braided cables, plus the cost of connectors** (which vary significantly).
 
-| Series                    | Application | Cost per Metre |
+| Series                    | Application | First Metre | Subsequent Metre(s) |
 |---------------------------|-------------|----------------|
-| [Ika](#ika-1)        | Headphones  | £12.00         |
-| [Ika 2](#ika-2)        | Headphones  | £13.50         |
-| [Kiore](#kiore-series)    | Headphones  | £15.50         |
-| [Manu](#manu-series)      | Speakers    | £12.00         |
-| [Tumuku](#tumuku-series)  | Headphones  | £18.50         |
+| [Ika](#ika-1)        | Headphones  |£18.50| £13.50         |
+| [Ika 2](#ika-2)        | Headphones  |£20.00| £15.00         |
+| [Kiore](#kiore-series)    | Headphones  |£22.00| £17.00         |
+| [Manu](#manu-series)      | Speakers    |£17.00| £12.00         |
+| [Tumuku](#tumuku-series)  | Headphones  |£24.50| £19.50         |
 
 Note that the vast majority of my cables are unshielded, and are therefore unsuitable for instrument or microphone cables. I am however able to make appropriately shielded cables, but I really like braiding things. It's fun. All of my Y-splitting cables utilise a custom aluminium-shell Y-split.
 
