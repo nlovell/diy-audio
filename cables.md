@@ -39,7 +39,7 @@ Right, here's the meat-and-potatoes of this page. _Cables_. The main difference 
 My pricing structure is simple; **A basic cost-per-metre for braided cables, plus the cost of connectors** (which vary significantly).
 
 | Series                    | Application | First Metre | Subsequent Metre(s) |
-|---------------------------|-------------|----------------|
+|---------------------------|-------------|----------------|---|
 | [Ika](#ika-1)        | Headphones  |£18.50| £13.50         |
 | [Ika 2](#ika-2)        | Headphones  |£20.00| £15.00         |
 | [Kiore](#kiore-series)    | Headphones  |£22.00| £17.00         |
